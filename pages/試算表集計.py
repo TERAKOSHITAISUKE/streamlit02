@@ -2,6 +2,7 @@ import streamlit as st
 from PIL import Image
 import pandas as pd
 
+
 st.subheader("当社の財務分析方針")
 
 #expander

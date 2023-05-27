@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
+
 """
 ## 「月次データ.py」の作成
 """

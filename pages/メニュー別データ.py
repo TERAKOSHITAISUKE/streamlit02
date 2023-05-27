@@ -2,6 +2,7 @@ import streamlit as st
 import pandas as pd
 import altair as alt
 
+
 def drink_kind():
     #エクセルデータの読み込み
     drink_data = pd.read_excel("./data/sales_data/2022sales_data.xlsx", sheet_name="drink", 
